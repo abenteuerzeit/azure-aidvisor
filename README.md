@@ -1,6 +1,6 @@
 # Azure AIdvisor
 
-[![License](https://img.shields.io/badge/license-EUPL--1.2-blue.svg)](https://github.com/example/azure-aidvisor/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-EUPL--1.2-blue.svg)](https://github.com/abenteuerzeit/azure-aidvisor/blob/development/LICENSE)
 
 The Azure AIdvisor application specializes in Azure Active Directory Management, AAD Group Management, Azure RBAC, Microsoft Graph API, and Privilege Identity Management (PIM). It provides a comprehensive set of solutions for handling complex queries, along with code samples, guides, and customer engagement. The application continuously optimizes processes and tools to deliver efficient results.
 
@@ -29,4 +29,4 @@ The Azure AIdvisor application specializes in Azure Active Directory Management,
 
 ## License
 
-This project is licensed under the European Union Public Licence v. 1.2. For more information, see the [LICENSE](https://github.com/example/azure-aidvisor/blob/main/LICENSE) file.
+This project is licensed under the European Union Public Licence v. 1.2. For more information, see the [LICENSE](https://github.com/abenteuerzeit/azure-aidvisor/blob/development/LICENSE) file.
