@@ -1,0 +1,77 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "whisper-1",
+      "object": "model",
+      "created": 1677532384,
+      "owned_by": "openai-internal",
+      "permission": [
+        {
+          "id": "modelperm-KlsZlfft3Gma8pI6A8rTnyjs",
+          "object": "model_permission",
+          "created": 1683912666,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": false,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "whisper-1",
+      "parent": null
+    },
+    {
+      "id": "whisper-2",
+      "object": "model",
+      "created": 1677643210,
+      "owned_by": "openai-internal",
+      "permission": [
+        {
+          "id": "modelperm-KlsZlfft3Gma8pI6A8rTnyjs",
+          "object": "model_permission",
+          "created": 1683912666,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": false,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "whisper-2",
+      "parent": null
+    },
+    {
+      "id": "whisper-3",
+      "object": "model",
+      "created": 1677791225,
+      "owned_by": "openai-internal",
+      "permission": [
+        {
+          "id": "modelperm-KlsZlfft3Gma8pI6A8rTnyjs",
+          "object": "model_permission",
+          "created": 1683912666,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": false,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "whisper-3",
+      "parent": null
+    }
+  ]
+}
