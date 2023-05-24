@@ -1,0 +1,52 @@
+{
+  "name": "azure-aidvisor",
+  "version": "1.0.0",
+  "description": "This AI application functions as an Azure AD expert, proficient in services like Azure AD, AAD Group Management, Azure RBAC, Microsoft Graph API, and Privilege Identity Management (PIM). It tackles complex queries, provides code samples, and guides, actively engages with customers, demonstrates technical leadership, and constantly optimizes processes and tools for efficiency and customer satisfaction. It possesses advanced knowledge of Active Directory Management, Security Group management, RBAC Role creation, Key Vault management, and Azure AD Password Protection.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "mocha 'test/**/*.js'"
+  },
+  "keywords": [
+    "OpenAI",
+    "Azure",
+    "Azure AD",
+    "Microsoft Graph API",
+    "Artificial Intelligence",
+    "AI",
+    "Machine Learning",
+    "ML",
+    "Active Directory",
+    "Identity & Access Management",
+    "AAD Group Management",
+    "Tenant & Domain Management",
+    "Azure RBAC",
+    "Role-Based Access Control",
+    "Privilege Identity Management",
+    "PIM",
+    "Azure AD Access Reviews",
+    "Azure AD Password Protection",
+    "RBAC Role",
+    "Key Vault",
+    "SSPR",
+    "Azure AD B2C",
+    "Azure AD B2B",
+    "Tech Support",
+    "Cloud Services",
+    "Developer Tools",
+    "Programming",
+    "Problem-Solving",
+    "Technical Leadership",
+    "Process Optimization"
+  ],
+  "author": "Adrian Mroz",
+  "license": "EUPL-1.2",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
